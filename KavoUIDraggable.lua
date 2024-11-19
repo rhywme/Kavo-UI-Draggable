@@ -89,13 +89,6 @@ local themeStyles = {
         TextColor = Color3.fromRGB(0,0,0),
         ElementColor = Color3.fromRGB(224, 224, 224)
     },
-    ArcHub = {
-        SchemeColor = Color3.fromRGB(69,69,69),
-        Background = Color3.fromRGB(31, 41, 43),
-        Header = Color3.fromRGB(22, 29, 31),
-        TextColor = Color3.fromRGB(0,255,255),
-        ElementColor = Color3.fromRGB(22, 29, 31)
-    },
     BloodTheme = {
         SchemeColor = Color3.fromRGB(227, 27, 27),
         Background = Color3.fromRGB(10, 10, 10),
